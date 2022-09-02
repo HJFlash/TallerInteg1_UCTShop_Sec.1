@@ -1,0 +1,49 @@
+body { 
+	font-family: Arial;
+	color:#00008B ;
+	text-align: justify;
+	font-size: 13pt;
+}
+body img{
+	position: absolute;
+	margin-left: 25%;
+	margin-top: 30%;
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+h1 {
+	text-align: center;
+	font-weight: bold;
+	color:grey ;
+}
+
+p{
+	color:yellow;
+	font-family: 'Courier New', Courier, monospace;
+
+}
+
+b{
+	font-size: 130%;
+	letter-spacing: 8px;
+}
+
+ol {
+	list-style-type: lower-roman;
+}
+
+.parrafos{ 
+	background-color: black;		
+	color: yellow;
+}
+p2{ 
+	margin-top: 1cm;
+	margin-right: 3cm;
+	margin-left: 4cm;
+	margin-bottom: 5cm;
+	border-color: blueviolet;
+	border-style: groove;
+}
+a:hover{
+	color: red
+}
